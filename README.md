@@ -4,7 +4,6 @@
 - Swift <img align="left" alt="swift" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swift.svg"/>
 
 ## Connect
-- [Telegram<img align="left" alt="xcodingwithalfian |" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"/>][https://t.me/ilyaKizz]
+- [Telegram<img align="left" alt="xcodingwithalfian |" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"/>]
+https://t.me/ilyaKizz
 
-- [Instagram<img align="left" alt="xcodingwithalfian | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][Instagram] 
-[instagram]: https://instagram.com/alfianlosari
